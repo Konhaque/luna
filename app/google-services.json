@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531162204052",
+    "project_id": "projeto-av3-luna",
+    "storage_bucket": "projeto-av3-luna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531162204052:android:ef54b2d7867b1c9c19b181",
+        "android_client_info": {
+          "package_name": "com.projetoav3luna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531162204052-cgg7uqf7u84emsoruoqqmiq3jht7snfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projetoav3luna",
+            "certificate_hash": "cc8503398c44e282cbdb96aaeed54b39b42c999b"
+          }
+        },
+        {
+          "client_id": "531162204052-d9qk4bd87ktm6t6l1iu8hgsjf10ad0pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiUuGnHzf4OHHxP6BygkqasFo1w7ctRls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531162204052-d9qk4bd87ktm6t6l1iu8hgsjf10ad0pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
